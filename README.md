@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a https://www.upwork.com/freelancers/~01d0347d15f2a6635b/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Upwork_Logo.svg/768px-Upwork_Logo.svg.png?20210803234019 />        
+    <img src="https://img.favpng.com/20/15/2/upwork-freelancer-com-logo-fiverr-png-favpng-hvgDx7a1BLwvkuGJ3D2RLk7tq.jpg"width="200" height="100"/>        
   </a>&nbsp;&nbsp;
   
 </p>
