@@ -11,7 +11,7 @@
   
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/gunvantpanchal/">
+  <a href="https://www.linkedin.com/in/dev-devarsh/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
@@ -39,10 +39,10 @@
   
   ## Experience
   
-   <img align="right" src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif" width="120" height="60"/>
   <img align="right" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img align="right" src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif" width="100" height="40"/>
   
   
   
