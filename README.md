@@ -39,10 +39,10 @@
   
   ## Experience
  
-  <div class="row">
+  <div class="column">
   <div class="col-6"><img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></div>
   <div class="col-6"><img align="right"src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></div>
-</div>
+  </div>
   <img align="right" src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif" width="120" height="60"/>
   
   
