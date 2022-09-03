@@ -40,7 +40,7 @@
   ## Experience
   <div>
   <img align="right" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </div>
+  <img align="down" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </div>
   <img align="right" src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif" width="120" height="60"/>
   
   
