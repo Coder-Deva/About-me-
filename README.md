@@ -11,7 +11,7 @@
   
 <p align='center'>
   
- <div>
+ <div align = 'center'>
       <a href="https://www.linkedin.com/in/dev-devarsh/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="30"/>
   </a>&nbsp;&nbsp;
